@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  [cite_start]As a Computer Engineering student and the <strong>Technical Head of my college's Coding Club</strong>, I'm passionate about building scalable, full-stack applications that integrate AI/ML to solve real-world problems. I'm currently diving deep into Agentic AI and modern web frameworks, always looking to collaborate on innovative open-source projects. Ask me about full-stack development, DSA, or building AI-powered apps!
+  As a Computer Engineering student, I'm passionate about building scalable, full-stack applications that integrate AI/ML to solve real-world problems. I'm currently diving deep into Agentic AI and modern web frameworks, always looking to collaborate on innovative open-source projects. Ask me about full-stack development, DSA, or building AI-powered apps!
 </p>
 
 ---
