@@ -98,16 +98,6 @@
 
 ---
 
-### 🪶 Holopin & Open Source Badges
-
-<p align="center">
-  <a href="https://holopin.io/@Amandot">
-    <img src="https://holopin.me/Amandot" alt="@Amandot's Holopin badges"/>
-  </a>
-</p>
-
----
-
 ### 🚀 Visitor Count
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Amandot&label=Profile%20Views&color=0&icon=3&pretty=true" alt="Visitor Count"/>
@@ -115,6 +105,4 @@
 
 ---
 
-### 🧠 Fun Fact  
-> “Code. Debug. Learn. Repeat. 🚀”  
-> *– Aman Prajapati*
+
