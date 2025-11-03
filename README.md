@@ -100,9 +100,10 @@
 
 ### 🚀 Visitor Count
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Amandot&label=Profile%20Views&color=0&icon=3&pretty=true" alt="Visitor Count"/>
+  <img src="https://visitcount.itsvg.in/api?id=Amandot&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Visitor Count"/>
 </p>
 
 ---
+
 
 
