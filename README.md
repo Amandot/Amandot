@@ -1,6 +1,11 @@
+<!-- Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Prajapati;A+Third-Year+Comp-Engg+Student;A+Full-Stack+Developer;An+AI+%26+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Prajapati;A+3rd+Year+Computer+Engineering+Student;Full+Stack+Developer+%26+AI+%2F+ML+Enthusiast;Lifelong+Learner+and+Open+Source+Contributor" alt="Typing SVG" />
 </p>
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/aman-prajapati-54a825287" target="_blank">
@@ -12,66 +17,104 @@
   <a href="https://x.com/AmanPrajap24304" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
-  <a href="mailto:amanmprajapati@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:amanmprajapati@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
+---
+
+### 💡 About Me
+
+> 👨‍💻 Passionate about building full-stack web apps that solve real-world problems  
+> 🤖 Exploring AI/ML and Agentic AI systems  
+> 🌱 Currently learning **Next.js, FastAPI, and Machine Learning**  
+> 🧠 Interested in **DSA, Open Source, and Web + AI Integrations**  
+> 🎯 Goal: Build impactful, scalable, and intelligent applications  
+
+---
+
+### 🧰 Tech Stack
+
+#### 💻 Frontend
 <p align="center">
-  As a Computer Engineering student, I'm passionate about building scalable, full-stack applications that integrate AI/ML to solve real-world problems. I'm currently diving deep into Agentic AI and modern web frameworks, always looking to collaborate on innovative open-source projects. Ask me about full-stack development, DSA, or building AI-powered apps!
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+#### ⚙️ Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+#### 🗃️ Databases & BaaS
+<p align="center">
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
+  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+#### 🧩 Languages, Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/googlecloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-### 💻 My Tech Stack
+### 🧮 Competitive Programming Journey
+
+| Platform | Rating | Problems Solved | Achievements |
+|-----------|--------|-----------------|--------------|
+| 💻 [LeetCode](https://leetcode.com/u/Amandot/) | Intermediate | 100+ | Global Rank ~1290k |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <strong>Frontend:</strong><br>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amandot&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Amandot&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak"/>
 </p>
+
 <p align="center">
-  <strong>Backend:</strong><br>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
-</p>
-<p align="center">
-  <strong>Databases & BaaS:</strong><br>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-</p>
-<p align="center">
-  <strong>Languages, Tools & Platforms:</strong><br>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandot&theme=tokyonight&hide_border=false&layout=compact" height="160" alt="Top Languages"/>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 🪶 Holopin & Open Source Badges
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amandot&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Amandot&theme=dark&hide_border=false" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <a href="https://holopin.io/@Amandot">
+    <img src="https://holopin.me/Amandot" alt="@Amandot's Holopin badges"/>
+  </a>
 </p>
 
+---
+
+### 🚀 Visitor Count
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Amandot&icon=3&color=0" alt="Visitor Count">
+  <img src="https://visitcount.itsvg.in/api?id=Amandot&label=Profile%20Views&color=0&icon=3&pretty=true" alt="Visitor Count"/>
 </p>
+
+---
+
+### 🧠 Fun Fact  
+> “Code. Debug. Learn. Repeat. 🚀”  
+> *– Aman Prajapati*
