@@ -27,7 +27,9 @@
 
 > 👨‍💻 Passionate about building full-stack web apps that solve real-world problems  
 > 🤖 Exploring AI/ML and Agentic AI systems  
-> 🌱 Currently learning **Next.js, FastAPI, and Machine Learning** > 🧠 Interested in **DSA, Open Source, and Web + AI Integrations** > 🎯 Goal: Build impactful, scalable, and intelligent applications  
+> 🌱 Currently learning *Next.js, FastAPI, and Machine Learning*  
+> 🧠 Interested in *DSA, Open Source, and Web + AI Integrations*  
+> 🎯 Goal: Build impactful, scalable, and intelligent applications  
 
 ---
 
@@ -44,7 +46,7 @@
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
-#### ⚙️ Backend
+#### ⚙ Backend
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
@@ -52,7 +54,7 @@
   <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-#### 🗃️ Databases & BaaS
+#### 🗃 Databases & BaaS
 <p align="center">
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -85,7 +87,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Amandot?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages_limit=8&config_timezone=Asia%2FKolkata&config_theme=night" alt="Amandot's Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amandot&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Amandot&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandot&theme=tokyonight&hide_border=false&layout=compact" height="160" alt="Top Languages"/>
 </p>
 
 ---
@@ -94,3 +101,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amandot&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitor counter"/>
 </p>
+
+
+---
