@@ -1,6 +1,5 @@
-<!-- Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Prajapati;A+3rd+Year+Computer+Engineering+Student;Full+Stack+Developer+%26+AI+%2F+ML+Enthusiast;Lifelong+Learner+and+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Prajapati;A+3rd+Year+Computer+Engineering+Student;Full+Stack+Developer+%26+AI+%2F+ML+Enthusiast;Lifelong+Learner+%26+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,9 +27,7 @@
 
 > 👨‍💻 Passionate about building full-stack web apps that solve real-world problems  
 > 🤖 Exploring AI/ML and Agentic AI systems  
-> 🌱 Currently learning **Next.js, FastAPI, and Machine Learning**  
-> 🧠 Interested in **DSA, Open Source, and Web + AI Integrations**  
-> 🎯 Goal: Build impactful, scalable, and intelligent applications  
+> 🌱 Currently learning **Next.js, FastAPI, and Machine Learning** > 🧠 Interested in **DSA, Open Source, and Web + AI Integrations** > 🎯 Goal: Build impactful, scalable, and intelligent applications  
 
 ---
 
@@ -88,12 +85,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amandot&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=Amandot&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandot&theme=tokyonight&hide_border=false&layout=compact" height="160" alt="Top Languages"/>
+  <img src="https://metrics.lecoq.io/Amandot?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages_limit=8&config_timezone=Asia%2FKolkata&config_theme=night" alt="Amandot's Metrics" />
 </p>
 
 ---
@@ -102,11 +94,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amandot&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitor counter"/>
 </p>
-
-
----
-
-
-
-
-
