@@ -35,7 +35,7 @@
 
 ### 📄Resume 
 <p align="center">
-<a href="https://drive.google.com/file/d/1HGkqSqalyaXLIBmfgdOXd_lhNKGt1_cj/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/19KJkc3EpaIwfEDlG-Eqn7_oeBQzc3uke/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">
 </a>
 </p>
@@ -110,3 +110,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amandot&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitor counter"/>
 </p>
+
