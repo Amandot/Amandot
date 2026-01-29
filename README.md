@@ -35,7 +35,7 @@
 
 ### 📄 Resume & Portfolio
 <p align="center">
-<a href="https://drive.google.com/file/d/1rAw6c0KZh_tJmGTaC9HElTv3ZNdXizmm/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1T7t5-Vyv2PIwstkFtLw7KAewppcJ5O-_/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">
 </a>
 &nbsp; &nbsp;
@@ -114,6 +114,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amandot&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitor counter"/>
 </p>
+
 
 
 
