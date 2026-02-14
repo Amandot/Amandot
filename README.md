@@ -22,6 +22,7 @@
 </p>
 
 ---
+<img align="right" alt="Coding" width="230" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRqbjcwZjlkb3h4MHJuY2kzbmdlZmJ1bzJ1NWw2enExeW4weGZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 💡 About Me
 
@@ -114,6 +115,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amandot&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitor counter"/>
 </p>
+
 
 
 
