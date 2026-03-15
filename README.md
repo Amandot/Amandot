@@ -32,7 +32,7 @@
 > 🧠 Interested in *DSA, Open Source, and Web + AI Integrations*  
 > 🎯 Goal: Build impactful, scalable, and intelligent applications
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Amandot&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Amandot&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Visitor counter"/>
 </p>
 
 ---
@@ -91,13 +91,13 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
+<!---
 
 ### 🧮 Competitive Programming Journey
 
 | Platform | Rating | Problems Solved | Achievements |
 |-----------|--------|-----------------|--------------|
-| 💻 [LeetCode](https://leetcode.com/u/Amandot/) | Intermediate | 100+ | Global Rank ~1290k |
+| 💻 [LeetCode](https://leetcode.com/u/Amandot/) | Intermediate | 100+ | Global Rank ~1290k |-->
 
 ---
 
