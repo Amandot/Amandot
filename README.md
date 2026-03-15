@@ -116,7 +116,11 @@
   <img src="https://komarev.com/ghpvc/?username=Amandot&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitor counter"/>
 </p>
 
+---
 
+<p align="center">
+  <img src="src/shoot.gif" alt="GitHub Space Shooter" />
+</p>
 
 
 
