@@ -115,7 +115,7 @@
 ---
 
 <p align="center">
-  <img src="src/Amandot-space-shooter.gif" alt="GitHub Space Shooter" />
+  <img src="src/shooter.gif" alt="GitHub Space Shooter" />
 </p>
 
 
