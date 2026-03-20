@@ -30,7 +30,7 @@
 > 🤖 Exploring AI/ML and Agentic AI systems  
 > 🌱 Currently learning *Next.js, FastAPI, and Machine Learning*  
 > 🧠 Interested in *DSA, Open Source, and Web + AI Integrations*  
-> 🎯 Goal: Build impactful, scalable, and intelligent applications
+> 🎯 Goal: Build impactful, scalable, and intelligent applications.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Amandot&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Visitor counter"/>
 </p>
