@@ -18,13 +18,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          
-      - name: Crop SVG to hide charts
-        run: |
-          # This reduces the overall height of the SVG viewport to cut off the bottom charts
-          sed -i 's/viewBox="0 0 1280 850"/viewBox="0 0 1280 450"/g' profile-3d-contrib/profile-night-rainbow.svg
-          sed -i 's/height="850"/height="450"/g' profile-3d-contrib/profile-night-rainbow.svg
-
       - name: Commit & Push
         run: |
           git config user.name github-actions
