@@ -2,8 +2,8 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:     # Allows you to trigger it manually
 
 permissions:
   contents: write
@@ -12,12 +12,13 @@ jobs:
   update-game:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      # Note: using v4 instead of v6 as v4 is the current stable version for checkout
+      - uses: actions/checkout@v4 
         with:
-          fetch-depth: 2  # This is crucial!
+          fetch-depth: 2  # This is crucial for the action to avoid repository bloat!
 
       - uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'game.gif'
-          strategy: 'random'
+          strategy: 'random' # You can change this to 'row' or 'column' if you prefer
