@@ -106,8 +106,8 @@
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Amandot&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="170" alt="GitHub Stats"/> -->
   <img src="https://streak-stats.demolab.com?user=Amandot&theme=tokyonight&hide_border=false" height="200" alt="GitHub Streak"/>
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" height="200" width="400" />
-</p>
+  <!--<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" height="200" width="400" />
+</p>-->
 
 <!-- <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" height="200" width="350" />
@@ -119,9 +119,14 @@
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="src/shooter.gif" alt="GitHub Space Shooter" />
+</p> -->
+
+<p align="center">
+  <img src="./game.gif" alt="GitHub Space Shooter Game" />
 </p>
+
 
 
 
