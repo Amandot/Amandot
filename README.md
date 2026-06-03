@@ -108,7 +108,7 @@
   <!-- <img src="https://streak-stats.demolab.com?user=Amandot&theme=tokyonight&hide_border=false" height="200" alt="GitHub Streak"/> -->
   <!--<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" height="200" width="400" />
 </p>-->
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg?v=3" alt="GitHub Streak" /></a>
    
 
 <!-- <p align="center">
