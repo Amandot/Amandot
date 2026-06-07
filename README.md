@@ -43,9 +43,9 @@
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">
 </a>
 &nbsp; &nbsp;
-<!-- <a href="https://aman-murex.vercel.app/" target="_blank">
+<a href="https://portfolioo-chi-dun.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7957d5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-</a> -->
+</a>
 </p>
  
 ---
