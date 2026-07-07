@@ -39,7 +39,7 @@
 
 ### 📄 Resume
 <p align="center">
-<a href="https://drive.google.com/file/d/1Yd1auAwdnbUQ61I0Z-rRPzrJ5v9CrQ85/view?usp=drivesdk" target="_blank">
+<a href="https://drive.google.com/file/d/1-zqN_kXuFHaxH5MmcMh5Fy_8Vx22XOaj/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">
 </a>
 &nbsp; &nbsp;
