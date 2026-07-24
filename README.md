@@ -109,7 +109,7 @@
   <!--<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" height="200" width="400" />
 </p>-->
   <!-- <img height="200" src="https://github-readme-stats.vercel.app/api?username=Amandot&show_icons=true&theme=tokyonight&rank_icon=github" alt="readme stats" /> -->
-  <img src="https://raw.githubusercontent.com/Amandot/Amandot/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&rank_icon=github&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <!-- <img src="https://raw.githubusercontent.com/Amandot/Amandot/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&rank_icon=github&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  /> -->
   <a href="https://git.io/streak-stats"><img src="./profile/streak.svg?v=3" alt="GitHub Streak" /></a>
    
 
