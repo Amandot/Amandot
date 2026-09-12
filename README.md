@@ -13,7 +13,7 @@
   <a href="https://instagram.com/aman_85918" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://x.com/AmanPrajap24304" target="_blank">
+  <a href="https://x.com/Amandot20" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
   <a href="mailto:amanmprajapati@gmail.com">
